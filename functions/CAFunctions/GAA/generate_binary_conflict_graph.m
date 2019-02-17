@@ -1,0 +1,1 @@
+function generate_binary_conflict_graph
